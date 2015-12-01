@@ -1,0 +1,19 @@
+<html>
+ <head>
+	<title>Tech Trek</title>
+	<h1> Tech Trek </h1>
+</head>
+
+<body>
+	<h2>My Web Page</h2>
+	<p> Hello! My name is   </p>
+	
+	<!-- Place image code below here -->
+	
+	<!--Place video code below here -->
+</body>
+
+<footer>
+<h3>  Thank you for visiting my website </h3>
+</footer>
+</html>
